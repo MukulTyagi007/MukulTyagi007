@@ -15,13 +15,6 @@
 - Python (Pandas, NumPy, Data Analysis, Visualization)  
 
 
-## 📂 Projects  
-- **Excel Sales Dashboard** – Annual sales report for a retail store  
-- **SQL Practice Queries** – Solving real-world data problems  
-- **Power BI Visualizations** – Customer and revenue insights  
-- **Python Data Analysis** – Working with datasets using Pandas & NumPy  
-
-
 ## 🎯 Goals  
 - Grow expertise in data analytics  
 - Build a strong project portfolio  
