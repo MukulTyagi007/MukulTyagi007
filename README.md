@@ -22,4 +22,5 @@
 
 ## 📫 Connect with me  
 - [LinkedIn](https://linkedin.com)  
-- [GitHub](https://github.com/MukulTyagi007)  
+- [GitHub](https://github.com/MukulTyagi007)
+- [Instagram](https://www.instagram.com/m.tyagi0007?igsh=MTRkdWZiYXN6NW9tMg==)
