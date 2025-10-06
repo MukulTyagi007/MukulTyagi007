@@ -21,6 +21,8 @@
 - Land my first role as a Data Analyst  
 
 ## 📫 Connect with me  
+- [Phone📞] +91 9756313517
+- [Email] mukultyagi9011@gmail.com
 - [LinkedIn](https://linkedin.com)  
 - [GitHub](https://github.com/MukulTyagi007)
 - [Instagram](https://www.instagram.com/m.tyagi0007?igsh=MTRkdWZiYXN6NW9tMg==)
